@@ -5,6 +5,7 @@ import java.sql.DriverManager;
 import java.sql.SQLException;
 
 public class DbHelper {
+    // you should do your settings here.
     private String userName="root";
     private String password="5078";
     private String dbUrl = "jdbc:mysql://localhost:3306/koton";
