@@ -9,16 +9,16 @@ My Schema name -> koton
 
 My table name -> products(id,title,description,imageUri,datePublished,productCategory,color,price,discount,oldprice) 
 
-My columns settings
-id - VARCHAR(150)
-title - VARCHAR(150)
-description - VARCHAR(150)
-imageUri - VARCHAR(1250)
-datePublished - VARCHAR(45)
-productCategory - VARCHAR(45
-color - VARCHAR(45)
-price - DOUBLE
-discount - INT
+My columns settings ->
+id - VARCHAR(150),
+title - VARCHAR(150),
+description - VARCHAR(150),
+imageUri - VARCHAR(1250),
+datePublished - VARCHAR(45),
+productCategory - VARCHAR(45),
+color - VARCHAR(45),
+price - DOUBLE,
+discount - INT,
 oldprice - DOUBLE
  
 
