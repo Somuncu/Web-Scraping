@@ -6,6 +6,7 @@ When you downloaded jar file you should add to project this library to External 
 After that I used MySql database for inserting the data. You should mysql connector jar file to External Libraries in your project. I did my db settings in DbHelper.class so you must do your db settings this file. 
 
 My Schema name -> koton
+
 My table name -> products(id,title,description,imageUri,datePublished,productCategory,color,price,discount,oldprice) 
 
 My columns settings
